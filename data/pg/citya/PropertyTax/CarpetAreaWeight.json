@@ -1,0 +1,105 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "CarpetAreaWeight": [
+    {
+      "code": "ROOM",
+      "name": "Room",
+      "nameHi": "कमरा",
+      "weight": 1,
+      "order": 1,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    },
+    {
+      "code": "COVERED_VERANDAH",
+      "name": "Covered verandah",
+      "nameHi": "आच्छादित बरामदा",
+      "weight": 1,
+      "order": 2,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    },
+    {
+      "code": "BALCONY",
+      "name": "Balcony",
+      "nameHi": "बालकनी",
+      "weight": 0.5,
+      "order": 3,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    },
+    {
+      "code": "CORRIDOR",
+      "name": "Corridor",
+      "nameHi": "गलियारा",
+      "weight": 0.5,
+      "order": 4,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    },
+    {
+      "code": "KITCHEN",
+      "name": "Kitchen",
+      "nameHi": "रसोई",
+      "weight": 0.5,
+      "order": 5,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    },
+    {
+      "code": "STORE",
+      "name": "Store",
+      "nameHi": "भण्डार",
+      "weight": 0.5,
+      "order": 6,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    },
+    {
+      "code": "GARAGE",
+      "name": "Garage",
+      "nameHi": "गैराज",
+      "weight": 0.25,
+      "order": 7,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    },
+    {
+      "code": "BATHROOM",
+      "name": "Bathroom",
+      "nameHi": "स्नानघर",
+      "weight": 0,
+      "order": 8,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    },
+    {
+      "code": "TOILET",
+      "name": "Toilet / latrine",
+      "nameHi": "शौचालय",
+      "weight": 0,
+      "order": 9,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    },
+    {
+      "code": "PORTICO",
+      "name": "Portico",
+      "nameHi": "पोर्टिको",
+      "weight": 0,
+      "order": 10,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    },
+    {
+      "code": "STAIRCASE",
+      "name": "Staircase",
+      "nameHi": "सीढ़ी",
+      "weight": 0,
+      "order": 11,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174 Explanation I; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000",
+      "active": true
+    }
+  ]
+}

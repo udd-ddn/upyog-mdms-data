@@ -1,0 +1,33 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "RoadWidthCategory": [
+    {
+      "code": "ROAD_LT_12M",
+      "name": "Less than 12 m",
+      "nameHi": "12 मीटर से कम",
+      "minMetres": 0,
+      "maxMetres": 12,
+      "order": 1,
+      "active": true
+    },
+    {
+      "code": "ROAD_12_24M",
+      "name": "12 m to 24 m",
+      "nameHi": "12 से 24 मीटर",
+      "minMetres": 12,
+      "maxMetres": 24,
+      "order": 2,
+      "active": true
+    },
+    {
+      "code": "ROAD_GT_24M",
+      "name": "More than 24 m",
+      "nameHi": "24 मीटर से अधिक",
+      "minMetres": 24,
+      "maxMetres": null,
+      "order": 3,
+      "active": true
+    }
+  ]
+}
