@@ -657,17 +657,17 @@
       "name": "Sewerage Report Viewer",
       "description": "Sewerage Connection User that can view reports"
     },
-	{
+    {
       "code": "PT_REPORT_VIEWER",
       "name": "PT Report Viewer",
       "description": "PT User that can view tabular reports"
     },
-	{
+    {
       "code": "PGR_REPORT_VIEWER",
       "name": "PGR Report Viewer",
       "description": "PGR User that can view tabular reports"
     },
-	{
+    {
       "code": "MCOLLECT_REPORT_VIEWER",
       "name": "MCollect Report Viewer",
       "description": "MCollect User that can view tabular reports"
@@ -926,6 +926,21 @@
       "code": "PET_INTERNAL_MICROSERVICE_ROLE",
       "name": "PET Internal Microservice Role",
       "description": "Internal role for plain access"
+    },
+    {
+      "code": "PT_RECORD_KEEPER",
+      "name": "PT Record Keeper",
+      "description": "Property Tax Record Keeper"
+    },
+    {
+      "code": "PT_CLERK",
+      "name": "PT Clerk",
+      "description": "Property Tax Clerk"
+    },
+    {
+      "code": "PT_WF_ADMIN",
+      "name": "PT Workflow Admin",
+      "description": "Property Tax Workflow Administrator"
     }
   ]
 }
