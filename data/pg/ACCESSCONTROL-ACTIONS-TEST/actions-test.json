@@ -21704,6 +21704,9 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
-    }
+    },
+{"id": 3200, "name": "Submit PT legacy arrears", "url": "/property-services/property/legacy/_submit", "displayName": "Submit past-year dues", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3201, "name": "Decide PT legacy arrears", "url": "/property-services/property/legacy/_decide", "displayName": "Approve or reject past-year dues", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3202, "name": "Search PT legacy arrears", "url": "/property-services/property/legacy/_search", "displayName": "Search past-year dues", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""}
   ]
 }
