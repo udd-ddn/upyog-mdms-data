@@ -941,6 +941,11 @@
       "code": "PT_WF_ADMIN",
       "name": "PT Workflow Admin",
       "description": "Property Tax Workflow Administrator"
+    },
+    {
+      "code": "PT_PRE_APPROVER",
+      "name": "PT Pre-Approver",
+      "description": "Property Tax Pre-Approver: second-last desk of the mutation chain; hears objections"
     }
   ]
 }
