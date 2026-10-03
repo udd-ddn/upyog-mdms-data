@@ -1,0 +1,27 @@
+{
+  "tenantId": "pg",
+  "moduleName": "PropertyTax",
+  "RegistryRelation": [
+    {
+      "code": "S/O",
+      "name": "Son of",
+      "gender": "MALE",
+      "relationship": "FATHER",
+      "active": true
+    },
+    {
+      "code": "D/O",
+      "name": "Daughter of",
+      "gender": "FEMALE",
+      "relationship": "FATHER",
+      "active": true
+    },
+    {
+      "code": "W/O",
+      "name": "Wife of",
+      "gender": "FEMALE",
+      "relationship": "HUSBAND",
+      "active": true
+    }
+  ]
+}

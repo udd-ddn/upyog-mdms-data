@@ -1,0 +1,12 @@
+{
+  "tenantId": "pg",
+  "moduleName": "PropertyTax",
+  "RegistryAreaUnit": [
+    {
+      "code": "वर्ग मीटर",
+      "name": "Square metre",
+      "sqftPerUnit": 10.7639104,
+      "active": true
+    }
+  ]
+}

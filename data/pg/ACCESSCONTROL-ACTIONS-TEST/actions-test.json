@@ -21721,6 +21721,17 @@
 {"id": 3220, "name": "PT search refunds", "url": "/property-services/property/refund/_search", "displayName": "Search refunds", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
 {"id": 3221, "name": "PT mutation clerk report", "url": "/property-services/property/mutation/clerkreport/_save", "displayName": "Save the clerk's report", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
 {"id": 3222, "name": "PT mutation advertisement", "url": "/property-services/property/mutation/advertisement/_record", "displayName": "Record an advertisement", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
-{"id": 3223, "name": "PT rate-card import", "url": "/property-services/property/ratecard/_import", "displayName": "Import rate-card details", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""}
+{"id": 3223, "name": "PT rate-card import", "url": "/property-services/property/ratecard/_import", "displayName": "Import rate-card details", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+    {
+      "id": 3100,
+      "name": "Search deed on Stamps and Registration portal",
+      "url": "/property-services/v1/registration/_search",
+      "displayName": "Search Registration Deed",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
