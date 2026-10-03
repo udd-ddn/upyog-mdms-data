@@ -21704,6 +21704,23 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
-    }
+    },
+{"id": 3200, "name": "Submit PT legacy arrears", "url": "/property-services/property/legacy/_submit", "displayName": "Submit past-year dues", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3201, "name": "Decide PT legacy arrears", "url": "/property-services/property/legacy/_decide", "displayName": "Approve or reject past-year dues", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3202, "name": "Search PT legacy arrears", "url": "/property-services/property/legacy/_search", "displayName": "Search past-year dues", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3210, "name": "PT mutation case file", "url": "/property-services/property/mutation/_casefile", "displayName": "Mutation case file", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3211, "name": "PT mutation schedule visit", "url": "/property-services/property/mutation/visit/_schedule", "displayName": "Fix site visit", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3212, "name": "PT mutation record visit", "url": "/property-services/property/mutation/visit/_record", "displayName": "Record site visit", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3213, "name": "PT mutation notice dispatch", "url": "/property-services/property/mutation/notice/_dispatch", "displayName": "Record notice dispatch", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3214, "name": "PT mutation record objection", "url": "/property-services/property/mutation/objection/_record", "displayName": "Record objection", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3215, "name": "PT mutation fix hearing", "url": "/property-services/property/mutation/objection/_hearing", "displayName": "Fix objection hearing", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3216, "name": "PT mutation decide objection", "url": "/property-services/property/mutation/objection/_decide", "displayName": "Decide objection", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3217, "name": "PT mutation reports", "url": "/property-services/property/mutation/report/_get", "displayName": "Mutation reports", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3218, "name": "PT cancel receipt", "url": "/property-services/property/refund/_cancelreceipt", "displayName": "Cancel receipt", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3219, "name": "PT decide refund", "url": "/property-services/property/refund/_decide", "displayName": "Decide or pay refund", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3220, "name": "PT search refunds", "url": "/property-services/property/refund/_search", "displayName": "Search refunds", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3221, "name": "PT mutation clerk report", "url": "/property-services/property/mutation/clerkreport/_save", "displayName": "Save the clerk's report", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3222, "name": "PT mutation advertisement", "url": "/property-services/property/mutation/advertisement/_record", "displayName": "Record an advertisement", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""},
+{"id": 3223, "name": "PT rate-card import", "url": "/property-services/property/ratecard/_import", "displayName": "Import rate-card details", "orderNumber": 1, "enabled": false, "serviceCode": "property-services", "code": "null", "path": ""}
   ]
 }
