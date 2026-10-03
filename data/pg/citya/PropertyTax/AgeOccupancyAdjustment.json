@@ -1,0 +1,51 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "AgeOccupancyAdjustment": [
+    {
+      "code": "AGE_UPTO_10",
+      "name": "Up to 10 years",
+      "nameHi": "10 वर्ष तक",
+      "minYears": 0,
+      "maxYears": 10,
+      "ownerOccupiedPercent": -25,
+      "rentedPercent": 25,
+      "appliesToForms": [
+        "FORM_KA"
+      ],
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174(2)",
+      "provisional": true,
+      "active": true
+    },
+    {
+      "code": "AGE_11_20",
+      "name": "More than 10, up to 20 years",
+      "nameHi": "10 से 20 वर्ष",
+      "minYears": 10,
+      "maxYears": 20,
+      "ownerOccupiedPercent": -32.5,
+      "rentedPercent": 12.5,
+      "appliesToForms": [
+        "FORM_KA"
+      ],
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174(2)",
+      "provisional": true,
+      "active": true
+    },
+    {
+      "code": "AGE_GT_20",
+      "name": "More than 20 years",
+      "nameHi": "20 वर्ष से अधिक",
+      "minYears": 20,
+      "maxYears": null,
+      "ownerOccupiedPercent": -40,
+      "rentedPercent": 0,
+      "appliesToForms": [
+        "FORM_KA"
+      ],
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.174(2)",
+      "provisional": true,
+      "active": true
+    }
+  ]
+}

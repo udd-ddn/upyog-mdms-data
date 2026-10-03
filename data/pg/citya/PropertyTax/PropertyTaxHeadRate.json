@@ -1,0 +1,54 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "PropertyTaxHeadRate": [
+    {
+      "code": "GENERAL",
+      "name": "General tax (house tax)",
+      "nameHi": "सामान्य कर (गृहकर)",
+      "ratePercent": 12.5,
+      "minPercent": 10,
+      "maxPercent": 15,
+      "fromFY": "2014-15",
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.173",
+      "provisional": true,
+      "active": true
+    },
+    {
+      "code": "WATER",
+      "name": "Water tax",
+      "nameHi": "जल कर",
+      "ratePercent": null,
+      "minPercent": 7.5,
+      "maxPercent": 12.5,
+      "fromFY": "2014-15",
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.173",
+      "provisional": true,
+      "active": false
+    },
+    {
+      "code": "DRAINAGE",
+      "name": "Drainage tax",
+      "nameHi": "जल निकासी कर",
+      "ratePercent": null,
+      "minPercent": 2.5,
+      "maxPercent": 5,
+      "fromFY": "2014-15",
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.173",
+      "provisional": true,
+      "active": false
+    },
+    {
+      "code": "CONSERVANCY",
+      "name": "Conservancy tax",
+      "nameHi": "सफाई कर",
+      "ratePercent": null,
+      "minPercent": 0,
+      "maxPercent": 2,
+      "fromFY": "2014-15",
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.173",
+      "provisional": true,
+      "active": false
+    }
+  ]
+}
