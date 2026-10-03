@@ -1,0 +1,1806 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "RateCard": [
+    {
+      "rateCardWard": "1",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "2",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "3",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "4",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "5",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "6",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "7",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "8",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "9",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.08,
+          "ROAD_12_24M": 0.1,
+          "ROAD_GT_24M": 0.12
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "10",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "11",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "12",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "13",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "14",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "15",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "16",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.08,
+          "ROAD_12_24M": 0.1,
+          "ROAD_GT_24M": 0.12
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "17",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "18",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "19",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "20",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.08,
+          "ROAD_12_24M": 0.1,
+          "ROAD_GT_24M": 0.12
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "21",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "22",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "23",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "24",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "25",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "26",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.08,
+          "ROAD_12_24M": 0.1,
+          "ROAD_GT_24M": 0.12
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "27",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "28",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "29",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "30",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "31",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.08,
+          "ROAD_12_24M": 0.1,
+          "ROAD_GT_24M": 0.12
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "32",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "33",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "34",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "35",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "36",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "37",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.5
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "38",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "39",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "40",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.08,
+          "ROAD_12_24M": 0.1,
+          "ROAD_GT_24M": 0.12
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "41",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.08,
+          "ROAD_12_24M": 0.1,
+          "ROAD_GT_24M": 0.12
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "42",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "43",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "44",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "45",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "46",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "47",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "48",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "49",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "50",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.08,
+          "ROAD_12_24M": 0.1,
+          "ROAD_GT_24M": 0.12
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "51",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "52",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "53",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "54",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.08,
+          "ROAD_12_24M": 0.1,
+          "ROAD_GT_24M": 0.12
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "55",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "56",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "57",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.08,
+          "ROAD_12_24M": 0.1,
+          "ROAD_GT_24M": 0.12
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "58",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 0.5,
+          "ROAD_12_24M": 0.75,
+          "ROAD_GT_24M": 1.0
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.4,
+          "ROAD_12_24M": 0.5,
+          "ROAD_GT_24M": 0.75
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.05,
+          "ROAD_12_24M": 0.08,
+          "ROAD_GT_24M": 0.1
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "59",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.5,
+          "ROAD_12_24M": 1.75,
+          "ROAD_GT_24M": 2.0
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.15,
+          "ROAD_GT_24M": 0.2
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    },
+    {
+      "rateCardWard": "60",
+      "fromFY": "2014-15",
+      "toFY": null,
+      "rates": {
+        "RCC_RB_PAKKA": {
+          "ROAD_LT_12M": 1.25,
+          "ROAD_12_24M": 1.5,
+          "ROAD_GT_24M": 1.75
+        },
+        "OTHER_PAKKA": {
+          "ROAD_LT_12M": 1.0,
+          "ROAD_12_24M": 1.25,
+          "ROAD_GT_24M": 1.5
+        },
+        "KACCHA": {
+          "ROAD_LT_12M": 0.75,
+          "ROAD_12_24M": 1.0,
+          "ROAD_GT_24M": 1.25
+        },
+        "VACANT_PLOT": {
+          "ROAD_LT_12M": 0.1,
+          "ROAD_12_24M": 0.12,
+          "ROAD_GT_24M": 0.15
+        }
+      },
+      "unit": "INR per sq ft per month",
+      "source": "Nagar Nigam Dehradun, सामान्य कर (गृहकर) कारपेट एरिया दर (प्रति वर्ग फुट प्रति माह), https://www.nagarnigamdehradun.com/assets/pdf/rates_for_assessment_house_tax.pdf",
+      "provisional": true
+    }
+  ]
+}

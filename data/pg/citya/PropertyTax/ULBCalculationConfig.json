@@ -1,0 +1,13 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "ULBCalculationConfig": [
+    {
+      "tenantId": "pg.citya",
+      "formulaType": "RATE_CARD",
+      "effectiveFrom": "2014-15",
+      "enabled": true,
+      "note": "Method: DehradunNigamMethod in pt-calculator-v2 (forms क/ग). Numbers come from the masters in this folder."
+    }
+  ]
+}

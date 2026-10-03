@@ -1,0 +1,530 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "RateCardWard": [
+    {
+      "code": "1",
+      "name": "Rajpur",
+      "nameHi": "राजपुर",
+      "gisWards": [
+        "04"
+      ],
+      "active": true
+    },
+    {
+      "code": "2",
+      "name": "Sahastradhara Road",
+      "nameHi": "सहस्त्रधारा रोड",
+      "gisWards": [],
+      "active": true
+    },
+    {
+      "code": "3",
+      "name": "Jakhan",
+      "nameHi": "जाखन",
+      "gisWards": [
+        "07"
+      ],
+      "active": true
+    },
+    {
+      "code": "4",
+      "name": "Hathibarkala",
+      "nameHi": "हाथीबडकला",
+      "gisWards": [],
+      "active": true
+    },
+    {
+      "code": "5",
+      "name": "Arya Nagar",
+      "nameHi": "आर्यनगर",
+      "gisWards": [
+        "09"
+      ],
+      "active": true
+    },
+    {
+      "code": "6",
+      "name": "Dobhalwala",
+      "nameHi": "डोभालवाला",
+      "gisWards": [
+        "10"
+      ],
+      "active": true
+    },
+    {
+      "code": "7",
+      "name": "Vijay Colony",
+      "nameHi": "विजय कालोनी",
+      "gisWards": [
+        "11"
+      ],
+      "active": true
+    },
+    {
+      "code": "8",
+      "name": "Kishan Nagar",
+      "nameHi": "किशन नगर",
+      "gisWards": [
+        "12"
+      ],
+      "active": true
+    },
+    {
+      "code": "9",
+      "name": "D.L. Road",
+      "nameHi": "डी0एल0 रोड",
+      "gisWards": [
+        "13"
+      ],
+      "active": true
+    },
+    {
+      "code": "10",
+      "name": "Rispana",
+      "nameHi": "रिस्पना",
+      "gisWards": [
+        "14"
+      ],
+      "active": true
+    },
+    {
+      "code": "11",
+      "name": "Karanpur",
+      "nameHi": "करनपुर",
+      "gisWards": [
+        "15"
+      ],
+      "active": true
+    },
+    {
+      "code": "12",
+      "name": "Bakralwala",
+      "nameHi": "बकरालवाला",
+      "gisWards": [
+        "16"
+      ],
+      "active": true
+    },
+    {
+      "code": "13",
+      "name": "Chukkhuwala",
+      "nameHi": "चुक्खुवाला",
+      "gisWards": [
+        "17"
+      ],
+      "active": true
+    },
+    {
+      "code": "14",
+      "name": "Indra Colony",
+      "nameHi": "इन्द्रा कालोनी",
+      "gisWards": [
+        "18"
+      ],
+      "active": true
+    },
+    {
+      "code": "15",
+      "name": "Ghantaghar",
+      "nameHi": "घंटाघर",
+      "gisWards": [],
+      "active": true
+    },
+    {
+      "code": "16",
+      "name": "Race Course North",
+      "nameHi": "रेसकोर्स उत्तर",
+      "gisWards": [
+        "20"
+      ],
+      "active": true
+    },
+    {
+      "code": "17",
+      "name": "M.K.P.",
+      "nameHi": "एम0के0पी0",
+      "gisWards": [
+        "21"
+      ],
+      "active": true
+    },
+    {
+      "code": "18",
+      "name": "Kalika Mata Mandir",
+      "nameHi": "कालिका माता मन्दिर",
+      "gisWards": [],
+      "active": true
+    },
+    {
+      "code": "19",
+      "name": "Tilak Road",
+      "nameHi": "तिलक रोड़",
+      "gisWards": [
+        "22"
+      ],
+      "active": true
+    },
+    {
+      "code": "20",
+      "name": "Khudbuda",
+      "nameHi": "खुड़बुड़ा",
+      "gisWards": [
+        "23"
+      ],
+      "active": true
+    },
+    {
+      "code": "21",
+      "name": "Shivaji Marg",
+      "nameHi": "शिवाजी मार्ग",
+      "gisWards": [
+        "24"
+      ],
+      "active": true
+    },
+    {
+      "code": "22",
+      "name": "Indresh Nagar",
+      "nameHi": "इन्द्रेश नगर",
+      "gisWards": [
+        "25"
+      ],
+      "active": true
+    },
+    {
+      "code": "23",
+      "name": "Dhamawala",
+      "nameHi": "धामावाला",
+      "gisWards": [
+        "26"
+      ],
+      "active": true
+    },
+    {
+      "code": "24",
+      "name": "Jhanda Mohalla",
+      "nameHi": "झण्डा मौहल्ला",
+      "gisWards": [
+        "27"
+      ],
+      "active": true
+    },
+    {
+      "code": "25",
+      "name": "Dalanwala North",
+      "nameHi": "डालनवाला उत्तर",
+      "gisWards": [
+        "28"
+      ],
+      "active": true
+    },
+    {
+      "code": "26",
+      "name": "Dalanwala East",
+      "nameHi": "डालनवाला पूर्व",
+      "gisWards": [
+        "29"
+      ],
+      "active": true
+    },
+    {
+      "code": "27",
+      "name": "Dalanwala South",
+      "nameHi": "डालनवाला दक्षिण",
+      "gisWards": [
+        "30"
+      ],
+      "active": true
+    },
+    {
+      "code": "28",
+      "name": "Adhoiwala North",
+      "nameHi": "अधोईवाला उत्तर",
+      "gisWards": [],
+      "active": true
+    },
+    {
+      "code": "29",
+      "name": "Adhoiwala South",
+      "nameHi": "अधोईवाला दक्षिण",
+      "gisWards": [],
+      "active": true
+    },
+    {
+      "code": "30",
+      "name": "Bhagat Singh Colony",
+      "nameHi": "भगत सिंह कालोनी",
+      "gisWards": [
+        "49"
+      ],
+      "active": true
+    },
+    {
+      "code": "31",
+      "name": "Rajiv Nagar",
+      "nameHi": "राजीव नगर",
+      "gisWards": [
+        "50"
+      ],
+      "active": true
+    },
+    {
+      "code": "32",
+      "name": "Defence Colony",
+      "nameHi": "डिफेंस कालोनी",
+      "gisWards": [
+        "58"
+      ],
+      "active": true
+    },
+    {
+      "code": "33",
+      "name": "Nehru Colony",
+      "nameHi": "नेहरू कालोनी",
+      "gisWards": [
+        "57"
+      ],
+      "active": true
+    },
+    {
+      "code": "34",
+      "name": "Dharampur",
+      "nameHi": "धर्मपुर",
+      "gisWards": [
+        "56"
+      ],
+      "active": true
+    },
+    {
+      "code": "35",
+      "name": "Deep Nagar",
+      "nameHi": "दीप नगर",
+      "gisWards": [
+        "82"
+      ],
+      "active": true
+    },
+    {
+      "code": "36",
+      "name": "Ajabpur",
+      "nameHi": "अजबपुर",
+      "gisWards": [
+        "54"
+      ],
+      "active": true
+    },
+    {
+      "code": "37",
+      "name": "Mata Mandir Marg",
+      "nameHi": "माता मन्दिर मार्ग",
+      "gisWards": [
+        "53"
+      ],
+      "active": true
+    },
+    {
+      "code": "38",
+      "name": "Race Course South",
+      "nameHi": "रेसकोर्स दक्षिण",
+      "gisWards": [
+        "81"
+      ],
+      "active": true
+    },
+    {
+      "code": "39",
+      "name": "Rest Camp",
+      "nameHi": "रेस्ट कैम्प",
+      "gisWards": [
+        "80"
+      ],
+      "active": true
+    },
+    {
+      "code": "40",
+      "name": "Reetha Mandi",
+      "nameHi": "रीठा मंडी",
+      "gisWards": [
+        "69"
+      ],
+      "active": true
+    },
+    {
+      "code": "41",
+      "name": "Lakhi Bagh",
+      "nameHi": "लक्खी बाग",
+      "gisWards": [
+        "70"
+      ],
+      "active": true
+    },
+    {
+      "code": "42",
+      "name": "Kargi",
+      "nameHi": "कारगी",
+      "gisWards": [],
+      "active": true
+    },
+    {
+      "code": "43",
+      "name": "Patel Nagar East",
+      "nameHi": "पटेल नगर पूर्व",
+      "gisWards": [
+        "71"
+      ],
+      "active": true
+    },
+    {
+      "code": "44",
+      "name": "Brahmpuri",
+      "nameHi": "ब्रह्मपुरी",
+      "gisWards": [
+        "74"
+      ],
+      "active": true
+    },
+    {
+      "code": "45",
+      "name": "Niranjanpur",
+      "nameHi": "निरंजनपुर",
+      "gisWards": [
+        "76"
+      ],
+      "active": true
+    },
+    {
+      "code": "46",
+      "name": "Majra",
+      "nameHi": "माजरा",
+      "gisWards": [
+        "77"
+      ],
+      "active": true
+    },
+    {
+      "code": "47",
+      "name": "Turner Road",
+      "nameHi": "टर्नर रोड़",
+      "gisWards": [
+        "78"
+      ],
+      "active": true
+    },
+    {
+      "code": "48",
+      "name": "Indirapuram",
+      "nameHi": "इन्दिरापुरम्",
+      "gisWards": [
+        "41"
+      ],
+      "active": true
+    },
+    {
+      "code": "49",
+      "name": "Dronpuri",
+      "nameHi": "द्रोणपुरी",
+      "gisWards": [
+        "43"
+      ],
+      "active": true
+    },
+    {
+      "code": "50",
+      "name": "Kanwali",
+      "nameHi": "कांवली",
+      "gisWards": [
+        "42"
+      ],
+      "active": true
+    },
+    {
+      "code": "51",
+      "name": "Indira Nagar",
+      "nameHi": "इन्दिरा नगर",
+      "gisWards": [
+        "39"
+      ],
+      "active": true
+    },
+    {
+      "code": "52",
+      "name": "Basant Vihar",
+      "nameHi": "बसंत विहार",
+      "gisWards": [
+        "37"
+      ],
+      "active": true
+    },
+    {
+      "code": "53",
+      "name": "Mohit Nagar",
+      "nameHi": "मोहित नगर",
+      "gisWards": [],
+      "active": true
+    },
+    {
+      "code": "54",
+      "name": "Patel Nagar West",
+      "nameHi": "पटेल नगर पश्चिम",
+      "gisWards": [
+        "44"
+      ],
+      "active": true
+    },
+    {
+      "code": "55",
+      "name": "Gandhigram",
+      "nameHi": "गांधीग्राम",
+      "gisWards": [
+        "45"
+      ],
+      "active": true
+    },
+    {
+      "code": "56",
+      "name": "Yamuna Colony",
+      "nameHi": "यमुना कालोनी",
+      "gisWards": [
+        "33"
+      ],
+      "active": true
+    },
+    {
+      "code": "57",
+      "name": "Govind Garh",
+      "nameHi": "गोविंद गढ़",
+      "gisWards": [
+        "34"
+      ],
+      "active": true
+    },
+    {
+      "code": "58",
+      "name": "Shridev Suman Nagar",
+      "nameHi": "श्रीदेव सुमन नगर",
+      "gisWards": [
+        "35"
+      ],
+      "active": true
+    },
+    {
+      "code": "59",
+      "name": "Ballupur",
+      "nameHi": "बल्लूपुर",
+      "gisWards": [
+        "32"
+      ],
+      "active": true
+    },
+    {
+      "code": "60",
+      "name": "Kaulagarh",
+      "nameHi": "कौलागढ़",
+      "gisWards": [
+        "31"
+      ],
+      "active": true
+    }
+  ]
+}

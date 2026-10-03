@@ -1,0 +1,59 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "PrescribedForm": [
+    {
+      "code": "FORM_KA",
+      "name": "प्रपत्र-क",
+      "nameEn": "Form A: residential self-assessment",
+      "kind": "SELF_ASSESSMENT",
+      "usageCategory": "RESIDENTIAL",
+      "areaBasis": "CARPET",
+      "ageAdjustment": true,
+      "pairedWith": "FORM_KHA",
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.207A; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000, r.2(ज)",
+      "sourceUrl": "https://www.nagarnigamdehradun.com/assets/pdf/house_tax_ass.pdf",
+      "active": true
+    },
+    {
+      "code": "FORM_KHA",
+      "name": "प्रपत्र-ख",
+      "nameEn": "Form B: residential carpet-area / land-area statement",
+      "kind": "STATEMENT",
+      "usageCategory": "RESIDENTIAL",
+      "areaBasis": "CARPET",
+      "ageAdjustment": false,
+      "pairedWith": "FORM_KA",
+      "refileWithinMonths": 3,
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.221B; UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000, r.3",
+      "sourceUrl": "https://www.nagarnigamdehradun.com/assets/pdf/house_tax_ass.pdf",
+      "active": true
+    },
+    {
+      "code": "FORM_GA",
+      "name": "प्रपत्र-ग",
+      "nameEn": "Form C: non-residential self-assessment",
+      "kind": "SELF_ASSESSMENT",
+      "usageCategory": "NONRESIDENTIAL",
+      "areaBasis": "COVERED",
+      "ageAdjustment": false,
+      "pairedWith": "FORM_GHA",
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.207A; Uttarakhand rules for non-residential buildings (forms ग/घ); name and notification to be confirmed (D2), r.7",
+      "provisional": true,
+      "active": true
+    },
+    {
+      "code": "FORM_GHA",
+      "name": "प्रपत्र-घ",
+      "nameEn": "Form D: non-residential statement",
+      "kind": "STATEMENT",
+      "usageCategory": "NONRESIDENTIAL",
+      "areaBasis": "COVERED",
+      "ageAdjustment": false,
+      "pairedWith": "FORM_GA",
+      "source": "UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.221B; Uttarakhand rules for non-residential buildings (forms ग/घ); name and notification to be confirmed (D2), r.3",
+      "provisional": true,
+      "active": true
+    }
+  ]
+}

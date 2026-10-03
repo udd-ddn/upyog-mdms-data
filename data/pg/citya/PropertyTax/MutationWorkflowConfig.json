@@ -1,0 +1,29 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "MutationWorkflowConfig": [
+    {
+      "businessService": "PT.MUTATION",
+      "createBusinessService": "PT.CREATE",
+      "initialAction": "OPEN",
+      "payAction": "PAY",
+      "assignmentHierarchy": "REVENUE",
+      "objectionDays": 30,
+      "source": "Nagar Nigam Dehradun, 2026-09-29: M-Clerk, Verifier, Pre-Approver, Approver; notice by SMS and letter; 30 days for objections, recorded by the clerk. Fee at application and the Pre-Approver hearing objections are provisional.",
+      "actionLabels": {
+        "ISSUE_NOTICE": { "label": "Issue Notice", "variant": "verify" }
+      },
+      "steps": [
+        { "state": "PENDING_PAYMENT", "semantics": "PAYMENT", "assignBy": "CITIZEN", "label": "Fee to be paid" },
+        { "state": "PENDING_CLERK", "semantics": "SCRUTINY", "assignBy": "BOUNDARY", "label": "With M-Clerk" },
+        { "state": "PENDING_VERIFICATION", "semantics": "VERIFICATION", "assignBy": "BOUNDARY", "label": "With Verifier" },
+        { "state": "PENDING_SITE_VISIT", "semantics": "SITE_VISIT", "assignBy": "BOUNDARY", "label": "Site visit pending" },
+        { "state": "NOTICE_PENDING", "semantics": "NOTICE", "assignBy": "BOUNDARY", "label": "Notice not issued" },
+        { "state": "NOTICE_ISSUED", "semantics": "OBJECTION_PERIOD", "assignBy": "BOUNDARY", "label": "Notice issued (objection period)" },
+        { "state": "PENDING_PREAPPROVAL", "semantics": "PRE_APPROVAL", "assignBy": "BOUNDARY", "label": "With Pre-Approver" },
+        { "state": "PENDING_APPROVAL", "semantics": "APPROVAL", "assignBy": "BOUNDARY", "label": "With Approver" },
+        { "state": "CORRECTION_PENDING", "semantics": "CORRECTION", "assignBy": "CITIZEN", "label": "Sent back to applicant" }
+      ]
+    }
+  ]
+}
