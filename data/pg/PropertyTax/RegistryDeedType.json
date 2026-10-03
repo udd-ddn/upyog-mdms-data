@@ -1,0 +1,80 @@
+{
+  "tenantId": "pg",
+  "moduleName": "PropertyTax",
+  "RegistryDeedType": [
+    {
+      "code": "KEYWORD_FLAT",
+      "name": "Flat / apartment",
+      "keywords": [
+        "flat",
+        "apartment"
+      ],
+      "propertyType": "BUILTUP.SHAREDPROPERTY",
+      "order": 1,
+      "active": true
+    },
+    {
+      "code": "KEYWORD_BUILDING",
+      "name": "Building / house",
+      "keywords": [
+        "building",
+        "buliding",
+        "house"
+      ],
+      "propertyType": "BUILTUP.INDEPENDENTPROPERTY",
+      "order": 2,
+      "active": true
+    },
+    {
+      "code": "KEYWORD_VACANT",
+      "name": "Plot / land",
+      "keywords": [
+        "plot",
+        "land"
+      ],
+      "propertyType": "VACANT",
+      "order": 3,
+      "active": true
+    },
+    {
+      "code": "KEYWORD_RESIDENTIAL",
+      "name": "Residential",
+      "keywords": [
+        "residential"
+      ],
+      "usageCategory": "RESIDENTIAL",
+      "order": 10,
+      "active": true
+    },
+    {
+      "code": "KEYWORD_COMMERCIAL",
+      "name": "Commercial",
+      "keywords": [
+        "commercial"
+      ],
+      "usageCategory": "NONRESIDENTIAL.COMMERCIAL",
+      "order": 11,
+      "active": true
+    },
+    {
+      "code": "KEYWORD_INDUSTRIAL",
+      "name": "Industrial",
+      "keywords": [
+        "industrial"
+      ],
+      "usageCategory": "NONRESIDENTIAL.INDUSTRIAL",
+      "order": 12,
+      "active": true
+    },
+    {
+      "code": "KEYWORD_INSTITUTIONAL",
+      "name": "Institutional",
+      "keywords": [
+        "institutional"
+      ],
+      "usageCategory": "NONRESIDENTIAL.INSTITUTIONAL",
+      "order": 13,
+      "active": true
+    }
+  ]
+}

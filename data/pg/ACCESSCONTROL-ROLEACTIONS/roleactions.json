@@ -33455,6 +33455,12 @@
     {"rolecode": "PT_REPORT_VIEWER", "actionid": 2156, "actioncode": "", "tenantId": "pg"},
     {"rolecode": "PT_REPORT_VIEWER", "actionid": 3202, "actioncode": "", "tenantId": "pg"},
     {"rolecode": "PT_REPORT_VIEWER", "actionid": 706, "actioncode": "", "tenantId": "pg"},
-    {"rolecode": "PT_REPORT_VIEWER", "actionid": 1864, "actioncode": "", "tenantId": "pg"}
+    {"rolecode": "PT_REPORT_VIEWER", "actionid": 1864, "actioncode": "", "tenantId": "pg"},
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3100,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
