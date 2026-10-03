@@ -1,0 +1,38 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "RateCardConstructionType": [
+    {
+      "code": "RCC_RB_PAKKA",
+      "name": "RCC / RB roof, pakka",
+      "nameHi": "आर.सी.सी./आर.बी. छत पक्का भवन",
+      "appliesTo": "BUILDING",
+      "order": 1,
+      "active": true
+    },
+    {
+      "code": "OTHER_PAKKA",
+      "name": "Other pakka, including asbestos, fibre and tin-shed roofs",
+      "nameHi": "अन्य पक्का भवन (एस्बेस्टस, फाइबर, टिन शेड सहित)",
+      "appliesTo": "BUILDING",
+      "order": 2,
+      "active": true
+    },
+    {
+      "code": "KACCHA",
+      "name": "Kaccha",
+      "nameHi": "कच्चा भवन",
+      "appliesTo": "BUILDING",
+      "order": 3,
+      "active": true
+    },
+    {
+      "code": "VACANT_PLOT",
+      "name": "Vacant plot",
+      "nameHi": "खाली भूखण्ड",
+      "appliesTo": "LAND",
+      "order": 4,
+      "active": true
+    }
+  ]
+}

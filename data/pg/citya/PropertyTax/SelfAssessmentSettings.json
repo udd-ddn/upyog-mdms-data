@@ -1,0 +1,20 @@
+{
+  "tenantId": "pg.citya",
+  "moduleName": "PropertyTax",
+  "SelfAssessmentSettings": [
+    {
+      "code": "DEFAULT",
+      "fromFY": "2014-15",
+      "coveredAreaToCarpetFactor": 0.8,
+      "vacantCountsAsOwnerOccupiedMonths": 12,
+      "statementRefileWithinMonths": 3,
+      "verificationSamplePercent": 10,
+      "concealmentPenaltyMax": 1000,
+      "interestPercentPerAnnum": 12,
+      "source": "UP Nagar Nigam (Sampatti Kar) Niyamavali 2000, notification 1435/9-9-2000-63-ज/95-टी.सी. dated 22-04-2000, r.2(ज), r.3 and शास्ति; UP Municipal Corporation Act 1959, as applied to Uttarakhand, s.221A",
+      "sourceUrl": "https://www.nagarnigamdehradun.com/assets/pdf/house_tax_ass.pdf",
+      "provisional": true,
+      "active": true
+    }
+  ]
+}
