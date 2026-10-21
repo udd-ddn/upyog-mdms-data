@@ -1,0 +1,110 @@
+{
+  "tenantId": "pg",
+  "moduleName": "PropertyTax",
+  "RegistryDistrict": [
+    {
+      "code": "01",
+      "name": "ALMORA",
+      "localName": "अल्मोडा",
+      "censusCode": "064",
+      "order": 10,
+      "active": true
+    },
+    {
+      "code": "02",
+      "name": "BAGESHWAR",
+      "localName": "बागेश्वर",
+      "censusCode": "063",
+      "order": 11,
+      "active": true
+    },
+    {
+      "code": "03",
+      "name": "CHAMPAWAT",
+      "localName": "चम्पावत",
+      "censusCode": "065",
+      "order": 13,
+      "active": true
+    },
+    {
+      "code": "04",
+      "name": "DEHRADUN",
+      "localName": "देहरादून",
+      "censusCode": "060",
+      "order": 1,
+      "active": true
+    },
+    {
+      "code": "05",
+      "name": "PAURI GARHWAL",
+      "localName": "पौडी गढ़वाल",
+      "censusCode": "061",
+      "order": 5,
+      "active": true
+    },
+    {
+      "code": "06",
+      "name": "CHAMOLI",
+      "localName": "चमोली",
+      "censusCode": "057",
+      "order": 8,
+      "active": true
+    },
+    {
+      "code": "07",
+      "name": "HARIDWAR",
+      "localName": "हरिद्वार",
+      "censusCode": "068",
+      "order": 2,
+      "active": true
+    },
+    {
+      "code": "08",
+      "name": "NAINITAL",
+      "localName": "नैनीताल",
+      "censusCode": "066",
+      "order": 4,
+      "active": true
+    },
+    {
+      "code": "09",
+      "name": "TEHRI GARHWAL",
+      "localName": "टिहरी गढ़वाल",
+      "censusCode": "059",
+      "order": 6,
+      "active": true
+    },
+    {
+      "code": "10",
+      "name": "PITHORAGARH",
+      "localName": "पिथौरागढ़",
+      "censusCode": "062",
+      "order": 12,
+      "active": true
+    },
+    {
+      "code": "11",
+      "name": "RUDRAPRAYAG",
+      "localName": "रुद्रप्रयाग",
+      "censusCode": "058",
+      "order": 9,
+      "active": true
+    },
+    {
+      "code": "12",
+      "name": "UDHAM SINGH NAGAR",
+      "localName": "उधम सिंह नगर",
+      "censusCode": "067",
+      "order": 3,
+      "active": true
+    },
+    {
+      "code": "13",
+      "name": "UTTARKASHI",
+      "localName": "उत्तरकाशी",
+      "censusCode": "056",
+      "order": 7,
+      "active": true
+    }
+  ]
+}
