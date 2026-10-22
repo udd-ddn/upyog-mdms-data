@@ -59,6 +59,20 @@
       "module": "SW"
     },
     {
+      "id": "60",
+      "tenantId": "pg",
+      "finYearRange": "2027-28",
+      "name": "2027-28",
+      "code": "2027-28",
+      "startingDate": 1806537600000,
+      "endingDate": 1838159999000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
+    },
+    {
       "id": "57",
       "tenantId": "pg",
       "finYearRange": "2026-27",
